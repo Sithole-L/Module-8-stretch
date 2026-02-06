@@ -1,9 +1,12 @@
 emoji_country_dict = {
     "🗽": "United States",
     "🪆": "Russia",
-    "🍝": "Italy",
+    "🍕": "Italy",
     "🍶": "Japan",
     "🌮": "Mexico",
     "🍁": "Canada",
+    "🗼": "France",
+    "🐼": "China",
+    "💃": "Spain",
     "🦘": "Australia"
 }
